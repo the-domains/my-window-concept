@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My Window Concept]]></title>
         <description><![CDATA[My Window Concept]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-window-concept/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 03:06:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 03:07:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-window-concept/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b17f47ec-46f3-4e43-9a3a-0f8307d6076a.jpg">]]></description>
+            <link>https://thegrid.ai/my-window-concept/japanese-panels/index.html</link>
+            <guid isPermaLink="false">f18c15f7-4a26-4372-b97c-13adcfb5981d</guid>
+            <pubDate>Fri, 06 May 2016 03:07:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95b0228b-3b9f-4aac-b934-50e7d44b733a.jpg">]]></description>
-            <link>undefinedscreen-shades/index.html</link>
+            <link>https://thegrid.ai/my-window-concept/screen-shades/index.html</link>
             <guid isPermaLink="false">16fadff6-627d-4f84-b85e-42b497e5b0de</guid>
             <pubDate>Fri, 06 May 2016 03:06:35 GMT</pubDate>
         </item>
